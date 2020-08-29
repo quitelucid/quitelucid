@@ -16,7 +16,7 @@ post_date: 2020-08-23 23:27:47
 <p>&nbsp;</p>
 <p>L'écologie et la bienséance commence d'abord par chez soi !</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.0.7"][et_pb_column type="4_4" _builder_version="4.0.7"][et_pb_accordion _builder_version="4.0.7"][et_pb_accordion_item title="Résumé de la fiche didactique" _builder_version="4.0.7" open="on"]<p>à compléter...</p>[/et_pb_accordion_item][et_pb_accordion_item title="Fiche didactique détaillée" _builder_version="4.0.7" open="off"]<p>à compléter</p>[/et_pb_accordion_item][et_pb_accordion_item title="Citations :" _builder_version="4.0.7" open="off"]<p>à compléter</p>[/et_pb_accordion_item][et_pb_accordion_item title="%91Jeux mobile%93 Devine ! (Time's up)" open="off" _builder_version="4.0.7"]<ul>
+<p>&nbsp;</p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.0.7"][et_pb_column type="4_4" _builder_version="4.0.7"][et_pb_accordion _builder_version="4.0.7"][et_pb_accordion_item title="Résumé de la fiche didactique" open="off" _builder_version="4.0.7"]<p>à compléter...</p>[/et_pb_accordion_item][et_pb_accordion_item title="Fiche didactique détaillée" _builder_version="4.0.7" open="off"]<p>à compléter</p>[/et_pb_accordion_item][et_pb_accordion_item title="Citations :" _builder_version="4.0.7" open="on"]<p>Ici se trouve une citation à compléter</p>[/et_pb_accordion_item][et_pb_accordion_item title="%91Jeux mobile%93 Devine ! (Time's up)" _builder_version="4.0.7" open="off"]<ul>
 <li>Une bouteille</li>
 <li>Ramasser des déchets</li>
 <li>Une bonne action</li>
