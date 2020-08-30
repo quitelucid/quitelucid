@@ -1,7 +1,7 @@
 ---
 ID: 609
 post_title: 'E001 – Energie : Éoliennes qui changent le paysage'
-author: Reap
+author: yvan-d
 post_excerpt: >
   Energie verte et le changement de nos
   paysages.
@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2020-08-22 16:05:12
 ---
-[et_pb_section fb_built="1" _builder_version="3.29.3"][et_pb_row _builder_version="3.29.3"][et_pb_column type="4_4" _builder_version="3.29.3"][et_pb_post_title meta="off" _builder_version="4.0.7" text_orientation="center"][/et_pb_post_title][/et_pb_column][/et_pb_row][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2019/08/QuiteLucid_Carte_Eoliennes.jpg" _builder_version="3.29.3"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="3.29.3"]<p>Artiste : Draolove</p>
+[et_pb_section fb_built="1" _builder_version="3.29.3"][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2019/08/QuiteLucid_Carte_Eoliennes.jpg" _builder_version="3.29.3"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="3.29.3"]<p>Artiste : Draolove</p>
 <p>Sponsor : Yvan D.</p>
 <p>Sujet : Energie verte et le changement de nos paysages.</p>
 <p>Date de publication : 05/10/2019</p>
