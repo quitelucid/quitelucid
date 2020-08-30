@@ -1,6 +1,6 @@
 ---
 ID: 609
-post_title: 'E001 &#8211; Energie : Éoliennes qui changent le paysage'
+post_title: 'E001 – Energie : Éoliennes qui changent le paysage'
 author: quitelucid
 post_excerpt: ""
 layout: page
