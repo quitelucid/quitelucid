@@ -2,7 +2,9 @@
 ID: 609
 post_title: 'E001 – Energie : Éoliennes qui changent le paysage'
 author: quitelucid
-post_excerpt: ""
+post_excerpt: >
+  Energie verte et le changement de nos
+  paysages.
 layout: post
 permalink: >
   https://www.quitelucid.com/e001-energie-eoliennes-qui-changent-le-paysage/
