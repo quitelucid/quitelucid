@@ -38,4 +38,4 @@ post_date: 2020-08-22 16:05:12
 <li>Il y a un chemin au milieu de l'image</li>
 <li>Il y a au moins un arbre sur l'image</li>
 <li>Il y a un homme qui peint</li>
-</ol>[/et_pb_accordion_item][/et_pb_accordion][/et_pb_column][/et_pb_row][/et_pb_section]
+</ol>[/et_pb_accordion_item][/et_pb_accordion][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.6.0" _module_preset="default"][et_pb_column _builder_version="4.6.0" _module_preset="default" type="4_4"][et_pb_code _builder_version="4.6.0" _module_preset="default" hover_enabled="0" sticky_enabled="0"]<?php<!-- [et_pb_line_break_holder] -->add_filter(function( $content ) {<!-- [et_pb_line_break_holder] -->	if( is_page() || is_single() ) {<!-- [et_pb_line_break_holder] -->		$content .= get_the_github_edit_link();<!-- [et_pb_line_break_holder] -->	}<!-- [et_pb_line_break_holder] -->	return $content;<!-- [et_pb_line_break_holder] -->}, 1000 );<!-- [et_pb_line_break_holder] -->[/et_pb_code][/et_pb_column][/et_pb_row][/et_pb_section]
