@@ -35,4 +35,5 @@ post_date: 2020-08-23 14:11:43
 <li>Il y a un couteau dans la main du plongeur</li>
 <li>Il y a un sol de sable sur l'image</li>
 <li>Le plongeur a une bouteille d'oxygène dans le dos</li>
-</ol>[/et_pb_accordion_item][/et_pb_accordion][/et_pb_column][/et_pb_row][/et_pb_section]
+</ol>[/et_pb_accordion_item][/et_pb_accordion][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.6.0" _module_preset="default"][et_pb_column _builder_version="4.6.0" _module_preset="default" type="4_4"][et_pb_cta title="Vous souhaitez améliorer cette page ?" button_text="Editer cette page" _builder_version="4.6.0" _module_preset="default" link_option_url="https://github.com/quitelucid/quitelucid/edit/master/_posts/2020-08-23-a001-action-pour-proteger-lenvironnement-proteger-locean-et-ses-animaux.md" url_new_window="on" link_option_url_new_window="on" button_url="https://github.com/quitelucid/quitelucid/edit/master/_posts/2020-08-23-a001-action-pour-proteger-lenvironnement-proteger-locean-et-ses-animaux.md" hover_enabled="0" sticky_enabled="0"]<p>Vous pouvez facilement éditer cette page en proposer votre version sur github. Suite à validation de notre équipe, vos modification pourront être appliqués.</p>
+[/et_pb_cta][/et_pb_column][/et_pb_row][/et_pb_section]
