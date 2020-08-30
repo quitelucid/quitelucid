@@ -12,7 +12,7 @@ published: true
 post_date: 2020-08-23 20:02:40
 ---
 [et_pb_section fb_built="1" _builder_version="3.29.3"][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/08/Bad_neighbor_final_version.jpg" alt="Bon et mauvais voisin" title_text="Bad_neighbor_final_version" _builder_version="4.5.7"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="3.29.3"]<p>Artiste : Restupurwanto</p>
-<p>Sponsor : Yvan D.</p>
+<p>Sponsor : <a href="https://www.quitelucid.com/membres/yvan-d/">Yvan D.</a></p>
 <p>Sujet : Bon ou mauvais voisin, prendre soin de chez soi</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
