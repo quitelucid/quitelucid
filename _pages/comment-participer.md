@@ -33,12 +33,13 @@ post_date: 2020-09-06 16:00:02
 <h3><strong></strong></h3>
 <h3>Trello</h3>
 <p>Trello s'apparente à un paperboard virtuel, sur lequel on viendrait coller des post-its comme sur un tableaux. C'est un outil collaboratif gratuit, permettant de travailler en ligne et à distance sur des projets.</p>
-<p>Nous utilisons sur le projet QuiteLucid un Trello publique comme outil de planning et gestion de projet pour nos illustrations et articles.<br />Ce tableau permet à notre équipe et à notre communauté d'avoir une vision claire et précise de l'état d'avancement du projet.</p>
+<p><span style="font-weight: 400;">Nous utilisons un tableau Trello publique pour planifier nos prochaines actions, notamment la rédaction d’articles et la création de nouvelles illustrations. </span></p>
+<p><span style="font-size: 14px;">Ce tableau permet à notre équipe et à notre communauté d'avoir une vision claire et précise de l'état d'avancement du projet.</span></p>
 <p>Vous pouvez retrouver sur notre Trello publique :</p>
 <ul>
-<li> la liste des cartes/articles publiés et à venir</li>
-<li>des informations descriptives des cartes à développer</li>
-<li>les liens vers les google docs publiques sur lesquels notre équipe travaille ou sera amener à travailler</li>
+<li><span style="font-weight: 400;">la liste des </span><span style="font-weight: 400;">contenus publiés et en cours de création</span></li>
+<li><span style="font-weight: 400;">des informations </span><span style="font-weight: 400;">sur nos prochaines </span><span style="font-weight: 400;">cartes à développer</span></li>
+<li><span style="font-weight: 400;">les liens vers</span><span style="font-weight: 400;"> les documents Google Docs</span><span style="font-weight: 400;"> publiques sur lesquels notre équipe travaille ou sera </span><span style="font-weight: 400;">amenée</span><span style="font-weight: 400;"> à travailler</span></li>
 </ul>
 <p>En utilisant Trello de manière publique, nous souhaitons que notre communauté (si elle le souhaite) s'immerge dans nos cycles de developpement et participe le plus possible à l'amélioration de notre contenu. <span style="font-size: 14px;"> </span></p>
 <p><a href="https://trello.com/b/xKpMqSGc/quitelucidcards-public-board"><strong>Découvrir le board publique QuiteLucid sur Trello.</strong></a></p>
