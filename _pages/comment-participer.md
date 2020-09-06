@@ -41,8 +41,8 @@ post_date: 2020-09-06 16:00:02
 <li><span style="font-weight: 400;">des informations </span><span style="font-weight: 400;">sur nos prochaines </span><span style="font-weight: 400;">cartes à développer</span></li>
 <li><span style="font-weight: 400;">les liens vers</span><span style="font-weight: 400;"> les documents Google Docs</span><span style="font-weight: 400;"> publiques sur lesquels notre équipe travaille ou sera </span><span style="font-weight: 400;">amenée</span><span style="font-weight: 400;"> à travailler</span></li>
 </ul>
-<p>En utilisant Trello de manière publique, nous souhaitons que notre communauté (si elle le souhaite) s'immerge dans nos cycles de developpement et participe le plus possible à l'amélioration de notre contenu. <span style="font-size: 14px;"> </span></p>
-<p><a href="https://trello.com/b/xKpMqSGc/quitelucidcards-public-board"><strong>Découvrir le board publique QuiteLucid sur Trello.</strong></a></p>
+<p><span style="font-weight: 400;">En utilisant Trello de manière publique, </span><span style="font-weight: 400;">vous pouvez vous immerger </span><span style="font-weight: 400;">dans nos cycles de développement, </span><span style="font-weight: 400;">participer</span><span style="font-weight: 400;"> à l’amélioration de notre contenu</span><span style="font-weight: 400;"> et découvrir ce qui se passe dans les coulisses du projet !</span></p>
+<p><a href="https://trello.com/b/xKpMqSGc/quitelucidcards-public-board"><strong>Je découvre le board publique QuiteLucid sur Trello.</strong></a></p>
 <h2><strong>Contribution</strong></h2>
 <h3></h3>
 <h3>Google drive</h3>
