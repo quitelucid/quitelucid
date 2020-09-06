@@ -31,7 +31,6 @@ post_date: 2020-09-06 16:00:02
 <h3>Github</h3>
 <p><span style="font-size: 14px;">Github est un des outils d'excellence pour le travail collaboratif dans le monde du développement informatique.</span></p>
 <p>Nous l'utilisons sur le projet QuiteLucid dans le but de versionner nos différentes pages et articles et de favoriser le partage technique de notre contenu.<br /> Si vous êtes confiant sur vos changements et que vous souhaitez contribuer directement à un article, vous pouvez utiliser le lien disponible en bas de chaque article pour proposer directement une merge request à cette page.</p>
-<p>À la fin de cette page, vous pourrez retrouver un bouton qui proposer d'éditer cette page via Github. Cette fonctionnalité sera disponible sur chacun de nos articles.</p>
 <p>Une <strong><em>merge request</em></strong>, qu'est ce que c'est ?</p>
 <p>Une <strong><em>merge request</em></strong> est une demande de fusion d'une version améliorée et plus avancée de l'article actuelle. En utilisant Github, notre équipe recevra une notification avec votre demande de changement. Il sera possible pour nous de contrôler très facilement l'ajout et différences dans le texte.<br /> Si nous estimons que votre demande de changement est pertinence, nous appliquerons la mise à jour et vous serez ajouté en tant que Auteur ou Contributeur selon le degré de contribution.</p>
 <p><a href="https://github.com/quitelucid/quitelucid"><strong>Découvrir notre répertoire publique Github</strong></a></p>
