@@ -20,7 +20,6 @@ post_date: 2020-09-06 16:00:02
 <p>Trello<br /> Nous utilisons Trello comme outil de planning et de suivi des différents articles dans le but d'avoir une vision précise de</p>
 <p><a href="https://trello.com/b/xKpMqSGc/quitelucidcards-public-board"><strong>Découvrir le board publique QuiteLucid sur Trello.</strong></a></p>
 <p>3. Contribution</p>
-<p>&nbsp;</p>
 <p>Google drive<br /> Google drive est un outil de traitement collaboratif qui permet de travailler de manière simultanée sur un document partagé.<br /> De base, nous avons fait le choix de mettre toutes nos pages de travail en mode public avec une lecture seule. Si vous avez envie de contribuer à un contenu spécifique de notre site (principalement les articles sur les cartes/illustrations), vous pouvez demander un accès au document afin de pouvoir écrire et proposer vos changements.</p>
 <p><strong><a href="https://drive.google.com/drive/u/2/folders/1IzhvK3R4THSxhQkFksko9RT8Y5nl30uz">Découvrir notre dossier publique Google Drive.</a></strong></p>
 <p><strong>Github</strong></p>
