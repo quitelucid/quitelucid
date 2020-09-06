@@ -13,7 +13,9 @@ post_date: 2020-09-06 16:00:02
 <h3><strong></strong></h3>
 <h3>Instagram</h3>
 <p><strong></strong></p>
-<p>Instagram est un des outils les plus populaire pour partager du contenu artistique. Nous utilisons Instagram pour partager nos nouvelles illustrations avec différents <em>#hashtag</em> dans le but d'augmenter notre visibilité et de sensibiliser le plus de monde possible.<br /> Plus notre page sera populaire, plus les algorithmes Instagram nous mettrons en avant et nous donnerons de la visibilité.<br /> N'hésiter donc pas à suivre notre compte @quitelucid.community<strong>,</strong> mettre un <em>Like</em> sur vos illustrations préférées et commenter lorsque vous le désirez.<br /> Plus notre communauté sera active et engagée, plus nous aurons de la force pour rester motiver et continuer à poursuivre ce beau projet !</p>
+<p><span style="font-size: 14px;">Nous partageons régulièrement nos créations sur notre compte Instagram <a href="https://www.instagram.com/quitelucid.community/">@quitelucid.community</a>, n’hésitez donc pas à nous suivre pour découvrir les nouvelles cartes, à liker et partager vos illustrations préférées !</span></p>
+<p>Plus notre communauté sera active et engagée, plus nous gagnerons en visibilité pour sensibiliser le plus possible le public sur les thèmes qui nous tiennent à cœur à savoir les enjeux écologiques et l'éthique.</p>
+<p><span style="font-weight: 400;">Votre soutien vos de l'or et nous donnera de la force pour rester motivés et continuer à poursuivre ce beau projet :)</span></p>
 <p><strong><a href="https://www.instagram.com/quitelucid.community/">Découvrir notre page Instagram QuiteLucid Community.</a></strong></p>
 <h3>Facebook</h3>
 <p>Notre groupe Facebook sera un des moyens centraux de communications avec notre communauté.</p>
