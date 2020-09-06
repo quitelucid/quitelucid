@@ -48,7 +48,7 @@ post_date: 2020-09-06 16:00:02
 <p><strong></strong></p>
 <h2><strong>Contribution</strong></h2>
 <h3></h3>
-<h3>Google drive et Google Docs</h3>
+<h3>Google Drive et Google Docs</h3>
 <p><span style="font-weight: 400;"></span></p>
 <p><span style="font-weight: 400;">Google </span><span style="font-weight: 400;">Drive est un service de partage de fichier dans le Cloud proposé par Google. Nous utilisons son outil Google Docs</span><span style="font-weight: 400;"> pour son outil de traitement </span><span style="font-weight: 400;">de textes en ligne (tout comme Office Word). Celui-ci</span><span style="font-weight: 400;"> permet de travailler de manière simultanée</span><span style="font-weight: 400;"> et collaborative </span><span style="font-weight: 400;">sur un document partagé.</span><br /><span style="font-weight: 400;">De base, nous avons fait le choix de </span><span style="font-weight: 400;">rendre publiques</span><span style="font-weight: 400;"> nos pages de travail </span><span style="font-weight: 400;">en mode lecture (tout le monde peut visualiser nos pages, sans pouvoir les modifier)</span><span style="font-weight: 400;">. Si vous avez envie de contribuer à un contenu spécifique de notre site, et avez des idées pour améliorer nos articles sur les cartes/illustrations, vous pouvez demander un accès au document afin de pouvoir écrire et proposer vos changements. C'est avec plaisir que nous vous donnerons des accès </span></p>
 <p><strong><a href="https://drive.google.com/drive/u/2/folders/1IzhvK3R4THSxhQkFksko9RT8Y5nl30uz">Découvrir notre dossier publique Google Drive.</a></strong></p>
