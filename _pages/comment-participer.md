@@ -22,37 +22,7 @@ post_date: 2020-09-06 16:00:02
 <p>3. Contribution</p>
 <p>&nbsp;</p>
 <p>Google drive<br /> Google drive est un outil de traitement collaboratif qui permet de travailler de manière simultanée sur un document partagé.<br /> De base, nous avons fait le choix de mettre toutes nos pages de travail en mode public avec une lecture seule. Si vous avez envie de contribuer à un contenu spécifique de notre site (principalement les articles sur les cartes/illustrations), vous pouvez demander un accès au document afin de pouvoir écrire et proposer vos changements.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><a href="https://drive.google.com/drive/u/2/folders/1IzhvK3R4THSxhQkFksko9RT8Y5nl30uz">Découvrir notre dossier publique Google Drive.</a></strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Github</strong></p>
 <p> <span style="font-size: 14px;">Github est un des outils d'excellence pour le travail collaboratif dans le monde du développement informatique.</span></p>
 <p>Nous l'utilisons sur le projet QuiteLucid dans le but de versionner nos différentes pages et articles et de favoriser le partage technique de notre contenu.<br /> Si vous êtes confiant sur vos changements et que vous souhaitez contribuer directement à un articles, vous pouvez utiliser le lien disponible en bas de chaque article pour proposer directement une merge request à cette page.</p>
