@@ -12,15 +12,66 @@ post_date: 2020-09-06 16:00:02
 [et_pb_section fb_built="1" _builder_version="4.6.1" _module_preset="default"][et_pb_row column_structure="1_3,1_3,1_3" _builder_version="4.6.1" _module_preset="default" hover_enabled="0" sticky_enabled="0"][et_pb_column type="1_3" _builder_version="4.6.1" _module_preset="default"][et_pb_text _builder_version="4.6.1" _module_preset="default" text_font="|||on|||||" text_orientation="center" hover_enabled="0" sticky_enabled="0"]<h2><strong>Partage / Soutien</strong></h2>
 [/et_pb_text][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/instagram_PNG5.png" _builder_version="4.6.1" _module_preset="default" alt="Instagram-logo" title_text="Instagram-logo" hover_enabled="0" sticky_enabled="0" url="https://www.instagram.com/quitelucid.community/" url_new_window="on"][/et_pb_image][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/facebook_logo-1.png" _builder_version="4.6.1" _module_preset="default" alt="facebook-logo-2" title_text="facebook_logo" hover_enabled="0" sticky_enabled="0" min_height="105px" url="https://www.facebook.com/groups/416653538973678" url_new_window="on"][/et_pb_image][/et_pb_column][et_pb_column type="1_3" _builder_version="4.6.1" _module_preset="default"][et_pb_text _builder_version="4.6.1" _module_preset="default" hover_enabled="0" sticky_enabled="0" text_font="|||on|||||" text_orientation="center"]<h2><strong>Planning</strong></h2>
 [/et_pb_text][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/trello-logo-blue.png" _builder_version="4.6.1" _module_preset="default" alt="Trello logo" title_text="trello-logo-blue" hover_enabled="0" sticky_enabled="0" url="https://trello.com/b/xKpMqSGc/quitelucidcards-public-board" url_new_window="on"][/et_pb_image][/et_pb_column][et_pb_column type="1_3" _builder_version="4.6.1" _module_preset="default" hover_enabled="0" sticky_enabled="0"][et_pb_text _builder_version="4.6.1" _module_preset="default" hover_enabled="0" sticky_enabled="0" text_font="|||on|||||" text_orientation="center"]<h2><strong>Contribuer</strong></h2>
-[/et_pb_text][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/googledrive-logo.png" _builder_version="4.6.1" _module_preset="default" alt="Google drive logo" title_text="googledrive-logo" hover_enabled="0" sticky_enabled="0" url="https://drive.google.com/drive/u/2/folders/1IzhvK3R4THSxhQkFksko9RT8Y5nl30uz" url_new_window="on"][/et_pb_image][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/github_PNG15.png" _builder_version="4.6.1" _module_preset="default" alt="Github logo" title_text="github_logo" hover_enabled="0" sticky_enabled="0" url="https://github.com/quitelucid/quitelucid" url_new_window="on"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.6.1" _module_preset="default"][et_pb_column _builder_version="4.6.1" _module_preset="default" type="4_4"][et_pb_text _builder_version="4.6.1" _module_preset="default" hover_enabled="0" sticky_enabled="0"]<h3><span style="font-size: 14px;"><strong>Partage et soutien</strong></span></h3>
+[/et_pb_text][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/googledrive-logo.png" _builder_version="4.6.1" _module_preset="default" alt="Google drive logo" title_text="googledrive-logo" hover_enabled="0" sticky_enabled="0" url="https://drive.google.com/drive/u/2/folders/1IzhvK3R4THSxhQkFksko9RT8Y5nl30uz" url_new_window="on"][/et_pb_image][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/github_PNG15.png" _builder_version="4.6.1" _module_preset="default" alt="Github logo" title_text="github_logo" hover_enabled="0" sticky_enabled="0" url="https://github.com/quitelucid/quitelucid" url_new_window="on"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.6.1" _module_preset="default"][et_pb_column _builder_version="4.6.1" _module_preset="default" type="4_4"][et_pb_text _builder_version="4.6.1" _module_preset="default" hover_enabled="0" sticky_enabled="0"]<h3></h3>
+<h3><span style="font-size: 14px;"><strong>Partage et soutien</strong></span></h3>
 <p><strong>Instagram</strong> est un des outils le plus populaire pour partager du contenu artistique. Nous utilisons Instagram partager nos nouvelles illustrations sur différent #hashtag dans le but d'augmenter notre visibilité et de sensibiliser le plus grand monde possible.<br /> Plus notre page sera populaire, plus les algorithme Instagram nous mettrons en avant et nous donnerons de la visibilité.<br /> N'hésiter donc pas à <strong>suivre</strong> notre compte <strong><a href="https://www.instagram.com/quitelucid.community/">Quitelucid community</a>,</strong> mettre un <strong>Like</strong> sur vos illustrations préférées et <strong>commenter</strong> lorsque vous le désirez.<br /> Plus notre communauté sera active et engagée, plus nous aurons de la force pour rester motiver et continuer à poursuivre ce beau projet !</p>
 <p>Facebook</p>
 <p><strong>2. Planning</strong></p>
 <p>Trello<br /> Nous utilisons Trello comme outil de planning et de suivi des différents articles dans le but d'avoir une vision précise de</p>
 <p><a href="https://trello.com/b/xKpMqSGc/quitelucidcards-public-board"><strong>Découvrir le board publique QuiteLucid sur Trello.</strong></a></p>
 <p>3. Contribution</p>
+<p>&nbsp;</p>
 <p>Google drive<br /> Google drive est un outil de traitement collaboratif qui permet de travailler de manière simultanée sur un document partagé.<br /> De base, nous avons fait le choix de mettre toutes nos pages de travail en mode public avec une lecture seule. Si vous avez envie de contribuer à un contenu spécifique de notre site (principalement les articles sur les cartes/illustrations), vous pouvez demander un accès au document afin de pouvoir écrire et proposer vos changements.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong><a href="https://drive.google.com/drive/u/2/folders/1IzhvK3R4THSxhQkFksko9RT8Y5nl30uz">Découvrir notre dossier publique Google Drive.</a></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>Github</strong></p>
-<p>Github est un des outils d'excellence pour le travail collaboratif dans le monde du développement informatique.<br /> Nous l'utilisons sur le projet QuiteLucid dans le but de versionner nos différentes pages et articles.<br /> Si vous êtes confiant sur vos changements et que vous souhaitez contribuer directement à un articles, vous pouvez utiliser le lien disponible en bas de chaque article pour proposer directement une merge request à cette page.<br /> Une merge request, qu'est ce que c'est ?<br /> Une merge request est une demande de fusion d'une version améliorée et plus avancée de l'article actuelle. En utilisant Github, notre équipe pourra observer directement qu'elle a é</p>
+<p> <span style="font-size: 14px;">Github est un des outils d'excellence pour le travail collaboratif dans le monde du développement informatique.</span></p>
+<p>Nous l'utilisons sur le projet QuiteLucid dans le but de versionner nos différentes pages et articles et de favoriser le partage technique de notre contenu.<br /> Si vous êtes confiant sur vos changements et que vous souhaitez contribuer directement à un articles, vous pouvez utiliser le lien disponible en bas de chaque article pour proposer directement une merge request à cette page.</p>
+<p>Une merge request, qu'est ce que c'est ?<br /> Une merge request est une demande de fusion d'une version améliorée et plus avancée de l'article actuelle. En utilisant Github, notre équipe recevra une notification avec votre demande de changement. Il sera possible pour nous de contrôler très facilement l'ajout et différences dans le texte.<br />Si nous estimons que votre demande de changement est pertinence, nous appliquerons la mise à jour et vous serez ajouté en tant que Auteur ou Contributeur selon le degré de contribution.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
