@@ -29,9 +29,11 @@ post_date: 2020-09-06 16:00:02
 </ul>
 <p>Toutes personnes souhaitant contribuer et prendre part au projet sont les bienvenues. N'hésitez pas à vous inscrire sur notre groupe Facebook, et commencez dès maintenant à contribuer en donnant votre avis et en partageant vos idées !</p>
 <p><a href="https://www.facebook.com/groups/416653538973678"><strong>Je rejoins le groupe Facebook QuiteLucid Community</strong></a></p>
+<p><strong></strong></p>
 <h2><strong>Planning</strong></h2>
 <h3><strong></strong></h3>
 <h3>Trello</h3>
+<p>&nbsp;</p>
 <p>Trello s'apparente à un paperboard virtuel, sur lequel on viendrait coller des post-its comme sur un tableaux. C'est un outil collaboratif gratuit, permettant de travailler en ligne et à distance sur des projets.</p>
 <p><span style="font-weight: 400;">Nous utilisons un tableau Trello publique pour planifier nos prochaines actions, notamment la rédaction d’articles et la création de nouvelles illustrations. </span></p>
 <p><span style="font-size: 14px;">Ce tableau permet à notre équipe et à notre communauté d'avoir une vision claire et précise de l'état d'avancement du projet.</span></p>
@@ -43,10 +45,12 @@ post_date: 2020-09-06 16:00:02
 </ul>
 <p><span style="font-weight: 400;">En utilisant Trello de manière publique, </span><span style="font-weight: 400;">vous pouvez vous immerger </span><span style="font-weight: 400;">dans nos cycles de développement, </span><span style="font-weight: 400;">participer</span><span style="font-weight: 400;"> à l’amélioration de notre contenu</span><span style="font-weight: 400;"> et découvrir ce qui se passe dans les coulisses du projet !</span></p>
 <p><a href="https://trello.com/b/xKpMqSGc/quitelucidcards-public-board"><strong>Je découvre le board publique QuiteLucid sur Trello.</strong></a></p>
+<p><strong></strong></p>
 <h2><strong>Contribution</strong></h2>
 <h3></h3>
 <h3>Google drive</h3>
-<p>Google drive est un outil de traitement collaboratif qui permet de travailler de manière simultanée sur un document partagé.<br /> De base, nous avons fait le choix de mettre toutes nos pages de travail en mode public avec une lecture seule. Si vous avez envie de contribuer à un contenu spécifique de notre site (principalement les articles sur les cartes/illustrations), vous pouvez demander un accès au document afin de pouvoir écrire et proposer vos changements.</p>
+<p><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;">Google </span><span style="font-weight: 400;">Drive</span><span style="font-weight: 400;"> est un outil de traitement </span><span style="font-weight: 400;">de textes (tout comme Office Word)</span><span style="font-weight: 400;"> qui permet de travailler de manière simultanée</span><span style="font-weight: 400;"> et collaborative </span><span style="font-weight: 400;">sur un document partagé.</span><br /> De base, nous avons fait le choix de mettre toutes nos pages de travail en mode public avec une lecture seule. Si vous avez envie de contribuer à un contenu spécifique de notre site (principalement les articles sur les cartes/illustrations), vous pouvez demander un accès au document afin de pouvoir écrire et proposer vos changements.</p>
 <p><strong><a href="https://drive.google.com/drive/u/2/folders/1IzhvK3R4THSxhQkFksko9RT8Y5nl30uz">Découvrir notre dossier publique Google Drive.</a></strong></p>
 <h3>Github</h3>
 <p><span style="font-size: 14px;">Github est un des outils d'excellence pour le travail collaboratif dans le monde du développement informatique.</span></p>
