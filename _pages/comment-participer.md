@@ -17,15 +17,17 @@ post_date: 2020-09-06 16:00:02
 <p>Plus notre communauté sera active et engagée, plus nous gagnerons en visibilité pour sensibiliser le plus possible le public sur les thèmes qui nous tiennent à cœur à savoir les enjeux écologiques et l'éthique.</p>
 <p><span style="font-weight: 400;">Votre soutien vos de l'or ! Il nous donnera de la force pour rester motivés et continuer à poursuivre ce beau projet :)</span></p>
 <p><strong><a href="https://www.instagram.com/quitelucid.community/">Découvrir notre page Instagram QuiteLucid Community.</a></strong></p>
+<p><strong></strong></p>
 <h3>Facebook</h3>
-<p>Notre groupe Facebook sera un des moyens centraux de communications avec notre communauté.</p>
-<p>Nous souhaitons que ce groupe Facebook soit une passerelle avec notre communauté en proposant :</p>
+<p><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;">Notre groupe Facebook sera </span><span style="font-weight: 400;">central pour communiquer </span><span style="font-weight: 400;">avec notre communauté.</span></p>
+<p><span style="font-weight: 400;">Nous souhaitons construire une vraie dynamique de partage et vous proposer notamment :</span></p>
 <ul>
-<li>des annonces sur le nouveaux contenus de notre site</li>
-<li>proposer des sondages et questionnaires pour avoir des données chiffrées sur différents sujets</li>
-<li>poser des questions directes pour avoir différents points de vues</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">des sondages et questionnaires pour connaître votre avis et choisir les prochaines thématiques et cartes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">des échanges et des contenus exclusifs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">des propositions de contribution sur les thématiques en cours et à venir</span></li>
 </ul>
-<p>Toutes les informations récoltés seront synthétiser et retranscrites sur nos outils Trello et Google Docs pour nous permettre de travailler sur les futures illustrations et articles associés. Toutes personnes souhaitant contribuer et prendre part au projet sont les bienvenues. Contribuer sur le groupe nous permet de cibler les personnes susceptibles de pouvoir nous aider pour la suite. N'hésitez donc pas à vous inscrire sur notre groupe Facebook, et commencer à contribuer en donnant votre avis et partager vos idées !</p>
+<p>Toutes personnes souhaitant contribuer et prendre part au projet sont les bienvenues. N'hésitez pas à vous inscrire sur notre groupe Facebook, et commencez dès maintenant à contribuer en donnant votre avis et en partageant vos idées !</p>
 <p><a href="https://www.facebook.com/groups/416653538973678"><strong>Découvrir notre groupe Facebook QuiteLucid Community</strong></a></p>
 <h2><strong>Planning</strong></h2>
 <h3><strong></strong></h3>
