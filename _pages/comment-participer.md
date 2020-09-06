@@ -17,15 +17,13 @@ post_date: 2020-09-06 16:00:02
 <p><strong><a href="https://www.instagram.com/quitelucid.community/">Découvrir notre page Instagram QuiteLucid Community.</a></strong></p>
 <h3>Facebook</h3>
 <p>Notre groupe Facebook sera un des moyens centraux de communications avec notre communauté.</p>
-<p>Nous souhaitons que notre groupe Facebook soit une passerelle avec notre communauté en proposant :</p>
+<p>Nous souhaitons que ce groupe Facebook soit une passerelle avec notre communauté en proposant :</p>
 <ul>
 <li>des annonces sur le nouveaux contenus de notre site</li>
 <li>proposer des sondages et questionnaires pour avoir des données chiffrées sur différents sujets</li>
-<li>poser des questions directes pour avoir vos points de vue</li>
-<li><span style="font-size: 14px;">*</span></li>
-<li><span style="font-size: 14px;"></span></li>
+<li>poser des questions directes pour avoir différents points de vues</li>
 </ul>
-<p>Toutes les informations récoltés seront synthétiser et retranscrites sur nos outils Trello et Google Docs pour nous permettre de travailler sur les futures illustrations et articles associés.</p>
+<p>Toutes les informations récoltés seront synthétiser et retranscrites sur nos outils Trello et Google Docs pour nous permettre de travailler sur les futures illustrations et articles associés. Toutes personnes souhaitant contribuer et prendre part au projet sont les bienvenues. Contribuer sur le groupe nous permet de cibler les personnes susceptibles de pouvoir nous aider pour la suite. N'hésitez donc pas à vous inscrire sur notre groupe Facebook, et commencer à contribuer en donnant votre avis et partager vos idées !</p>
 <p><a href="https://www.facebook.com/groups/416653538973678"><strong>Découvrir notre groupe Facebook QuiteLucid Community</strong></a></p>
 <h2><strong>Planning</strong></h2>
 <h3><strong></strong></h3>
