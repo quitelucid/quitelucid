@@ -28,11 +28,11 @@ post_date: 2020-09-06 16:00:02
 <li style="font-weight: 400;"><span style="font-weight: 400;">des propositions de contribution sur les thématiques en cours et à venir</span></li>
 </ul>
 <p>Toutes personnes souhaitant contribuer et prendre part au projet sont les bienvenues. N'hésitez pas à vous inscrire sur notre groupe Facebook, et commencez dès maintenant à contribuer en donnant votre avis et en partageant vos idées !</p>
-<p><a href="https://www.facebook.com/groups/416653538973678"><strong>Découvrir notre groupe Facebook QuiteLucid Community</strong></a></p>
+<p><a href="https://www.facebook.com/groups/416653538973678"><strong>Je rejoins le groupe Facebook QuiteLucid Community</strong></a></p>
 <h2><strong>Planning</strong></h2>
 <h3><strong></strong></h3>
 <h3>Trello</h3>
-<p>Trello s'apparente à un paperboard virtuel, sur lequel on viendrait coller des post-its dans un tableaux. C'est un outil collaboratif gratuit, permettant de travailler en ligne et à distance sur des projets.</p>
+<p>Trello s'apparente à un paperboard virtuel, sur lequel on viendrait coller des post-its comme sur un tableaux. C'est un outil collaboratif gratuit, permettant de travailler en ligne et à distance sur des projets.</p>
 <p>Nous utilisons sur le projet QuiteLucid un Trello publique comme outil de planning et gestion de projet pour nos illustrations et articles.<br />Ce tableau permet à notre équipe et à notre communauté d'avoir une vision claire et précise de l'état d'avancement du projet.</p>
 <p>Vous pouvez retrouver sur notre Trello publique :</p>
 <ul>
