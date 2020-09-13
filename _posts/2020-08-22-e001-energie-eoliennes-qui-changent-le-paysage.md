@@ -1,7 +1,7 @@
 ---
 ID: 609
 post_title: 'E001 – Energie : Éoliennes qui changent le paysage'
-author: draolove
+author: Yvan D.
 post_excerpt: >
   Energie verte et le changement de nos
   paysages.
