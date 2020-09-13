@@ -2,7 +2,9 @@
 ID: 1184
 post_title: 'E002 – Energie : Barrage hydraulique et l’hydroélectricité'
 author: quitelucid
-post_excerpt: ""
+post_excerpt: >
+  Les barrages hydraulique et la
+  production électrique
 layout: post
 permalink: >
   https://www.quitelucid.com/e002-energie-barrage-hydraulique-et-lhydroelectricite/
