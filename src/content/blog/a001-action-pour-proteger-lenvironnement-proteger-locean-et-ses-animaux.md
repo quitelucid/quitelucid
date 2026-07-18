@@ -4,7 +4,7 @@ pubDate: '2020-08-23'
 title: 'A001 – Action pour l’environnement : Protéger l’océan et ses animaux'
 ---
 
-[et_pb_section fb_built="1" _builder_version="4.5.7"][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/08/Turtle_Small_V3.jpeg" alt="Aider une tortue" title_text="Turtle_Small_V3" _builder_version="4.5.7"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="4.6.0" hover_enabled="0" sticky_enabled="0"]<p>Artiste : <a href="https://www.quitelucid.com/user/draolove/">Draolove</a></p>
+[et_pb_section fb_built="1" _builder_version="4.5.7"][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="/quitelucid/images/a001-ocean-animaux.jpeg" alt="Aider une tortue" title_text="Turtle_Small_V3" _builder_version="4.5.7"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="4.6.0" hover_enabled="0" sticky_enabled="0"]<p>Artiste : <a href="https://www.quitelucid.com/user/draolove/">Draolove</a></p>
 <p>Sponsor : <a href="https://www.quitelucid.com/membres/yvan-d/">Yvan D.</a></p>
 <p>Sujet : Protégeons l'océan et ses animaux</p>
 <p>Date de publication : 05/10/2019</p>

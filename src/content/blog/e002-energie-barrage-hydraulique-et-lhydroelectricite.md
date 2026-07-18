@@ -4,7 +4,7 @@ pubDate: '2020-09-13'
 title: 'E002 – Energie : Barrage hydraulique et l’hydroélectricité'
 ---
 
-[et_pb_section fb_built="1" _builder_version="3.29.3"][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2020/09/E002-QuiteLucid-Energie-barrage-hydraulique-min.png" alt="QuiteLucid Energie barrage hydraulique" title_text="E002-QuiteLucid-Energie-barrage hydraulique-min" _builder_version="4.6.1"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="3.29.3"]<p>Artiste : <a href="https://www.quitelucid.com/user/fafelart/">Fafelart</a></p>
+[et_pb_section fb_built="1" _builder_version="3.29.3"][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="/quitelucid/images/e002-barrage.png" alt="QuiteLucid Energie barrage hydraulique" title_text="E002-QuiteLucid-Energie-barrage hydraulique-min" _builder_version="4.6.1"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="3.29.3"]<p>Artiste : <a href="https://www.quitelucid.com/user/fafelart/">Fafelart</a></p>
 <p>Sponsor : <a href="https://www.quitelucid.com/user/yvan+d./">Yvan D.</a></p>
 <p>Sujet :  Les barrages hydrauliques et la production hydroélectrique</p>
 <p>&nbsp;</p>
