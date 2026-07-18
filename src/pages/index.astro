@@ -1,49 +1,174 @@
 ---
+import { Image } from 'astro:assets';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+import cardA001 from '../assets/cards/a001-ocean-animaux.jpeg';
+import cardA002 from '../assets/cards/a002-chez-soi.jpg';
+import cardA003 from '../assets/cards/a003-fillthebottle.png';
+import cardE001 from '../assets/cards/e001-eoliennes.jpg';
+import cardE002 from '../assets/cards/e002-barrage.png';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const fan = [cardE001, cardA001, cardA003, cardA002, cardE002];
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<section class="hero">
+				<div class="hero-text">
+					<h1>Devenez <em>plutôt lucide</em> sur le monde 🌱</h1>
+					<p>
+						Quite Lucid est un jeu de cartes éducatif et positif : chaque carte est une
+						illustration artistique autour de l'écologie — énergie, actions du quotidien,
+						société — accompagnée d'une citation inspirante et d'un article pour comprendre.
+					</p>
+					<div class="cta">
+						<a class="btn btn-primary" href={base + '/blog'}>Découvrir les cartes</a>
+						<a class="btn btn-secondary" href={base + '/about'}>Le projet</a>
+					</div>
+				</div>
+				<div class="hero-fan" aria-hidden="true">
+					{
+						fan.map((img, i) => (
+							<Image class={`fan-card fan-${i}`} src={img} alt="" width={220} loading="eager" />
+						))
+					}
+				</div>
+			</section>
+
+			<section class="pitch">
+				<div class="pitch-item">
+					<span class="pitch-icon">🎴</span>
+					<h3>Des cartes illustrées</h3>
+					<p>Des illustrations artistiques commandées à des professionnels, sur des sujets écologiques concrets.</p>
+				</div>
+				<div class="pitch-item">
+					<span class="pitch-icon">💬</span>
+					<h3>Une citation, un article</h3>
+					<p>Chaque carte inspire par une citation et explique son sujet par un article court et sourcé.</p>
+				</div>
+				<div class="pitch-item">
+					<span class="pitch-icon">🤝</span>
+					<h3>Participatif &amp; solidaire</h3>
+					<p>Un projet de communauté, sous licence libre, pensé pour être partagé — notamment avec les écoles.</p>
+				</div>
+			</section>
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.hero {
+		display: grid;
+		grid-template-columns: 1.15fr 1fr;
+		align-items: center;
+		gap: 2rem;
+		padding: 1.5rem 0 2.5rem;
+	}
+	.hero h1 em {
+		font-style: normal;
+		color: var(--green);
+		text-decoration: underline wavy var(--sun) 3px;
+		text-underline-offset: 6px;
+	}
+	.hero-text p {
+		color: var(--ink-soft);
+		font-size: 1.05rem;
+	}
+	.cta {
+		display: flex;
+		gap: 0.75rem;
+		flex-wrap: wrap;
+		margin-top: 1.25rem;
+	}
+
+	/* éventail de cartes */
+	.hero-fan {
+		position: relative;
+		height: 330px;
+	}
+	.hero-fan :global(img.fan-card) {
+		position: absolute;
+		bottom: 0;
+		left: 50%;
+		width: clamp(120px, 12vw, 165px);
+		height: auto;
+		border: var(--border-card);
+		border-radius: var(--radius-card);
+		box-shadow: var(--shadow-card);
+		transform-origin: bottom center;
+		transition: transform 0.25s ease;
+	}
+	.hero-fan :global(.fan-0) {
+		transform: translateX(-50%) rotate(-24deg) translateX(-52px);
+	}
+	.hero-fan :global(.fan-1) {
+		transform: translateX(-50%) rotate(-12deg) translateX(-26px);
+	}
+	.hero-fan :global(.fan-2) {
+		transform: translateX(-50%) rotate(0deg);
+	}
+	.hero-fan :global(.fan-3) {
+		transform: translateX(-50%) rotate(12deg) translateX(26px);
+	}
+	.hero-fan :global(.fan-4) {
+		transform: translateX(-50%) rotate(24deg) translateX(52px);
+	}
+	.hero-fan :global(img.fan-card:hover) {
+		transform: translateX(-50%) rotate(0deg) translateY(-14px) scale(1.05);
+		z-index: 5;
+	}
+
+	.pitch {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 1rem;
+	}
+	.pitch-item {
+		background: #fff;
+		border: 2.5px solid var(--ink);
+		border-radius: var(--radius-card);
+		padding: 1.1rem 1.2rem;
+		box-shadow: var(--shadow-card);
+	}
+	.pitch-icon {
+		font-size: 1.6rem;
+	}
+	.pitch-item h3 {
+		margin-top: 0.4rem;
+		font-size: 1.05rem;
+	}
+	.pitch-item p {
+		margin: 0;
+		font-size: 0.92rem;
+		color: var(--ink-soft);
+	}
+
+	@media (max-width: 800px) {
+		.hero {
+			grid-template-columns: 1fr;
+			text-align: center;
+			gap: 1rem;
+		}
+		.cta {
+			justify-content: center;
+		}
+		.hero-fan {
+			height: 250px;
+			margin-top: 0.5rem;
+		}
+		.pitch {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>
