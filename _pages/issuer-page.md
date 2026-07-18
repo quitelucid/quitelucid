@@ -1,11 +1,10 @@
 ---
 ID: 974
-post_title: Issuer Page
 author: quitelucid
-post_excerpt: ""
+date: '2020-08-30 19:17:20'
 layout: page
-permalink: https://www.quitelucid.com/issuer-page/
+post_excerpt: ''
 published: true
-post_date: 2020-08-30 19:17:20
+title: Issuer Page
 ---
 This page will display issuer json only.

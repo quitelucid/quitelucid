@@ -1,15 +1,13 @@
 ---
 ID: 609
-post_title: 'E001 – Energie : Éoliennes qui changent le paysage'
 author: Yvan D.
-post_excerpt: >
-  Energie verte et le changement de nos
-  paysages.
+date: '2020-08-22 16:05:12'
 layout: post
-permalink: >
-  https://www.quitelucid.com/e001-energie-eoliennes-qui-changent-le-paysage/
+post_excerpt: 'Energie verte et le changement de nos paysages.
+
+  '
 published: true
-post_date: 2020-08-22 16:05:12
+title: 'E001 – Energie : Éoliennes qui changent le paysage'
 ---
 [et_pb_section fb_built="1" _builder_version="3.29.3"][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2019/08/QuiteLucid_Carte_Eoliennes.jpg" _builder_version="3.29.3"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="3.29.3"]<p>Artiste : <a href="https://www.quitelucid.com/user/draolove/">Draolove</a></p>
 <p>Sponsor : <a href="https://www.quitelucid.com/user/yvan+d./">Yvan D.</a></p>

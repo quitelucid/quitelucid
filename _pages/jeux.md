@@ -1,12 +1,11 @@
 ---
 ID: 436
-post_title: Jeux
 author: quitelucid
-post_excerpt: ""
+date: '2019-08-15 10:40:21'
 layout: page
-permalink: https://www.quitelucid.com/jeux/
+post_excerpt: ''
 published: true
-post_date: 2019-08-15 10:40:21
+title: Jeux
 ---
 [et_pb_section fb_built="1" _builder_version="3.26.6"][et_pb_row _builder_version="3.26.6"][et_pb_column type="4_4" _builder_version="3.26.6"][et_pb_post_title meta="off" _builder_version="3.26.6" text_orientation="center"][/et_pb_post_title][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.26.6"][et_pb_column type="4_4" _builder_version="3.26.6"][et_pb_text _builder_version="3.27.4"]<div class="elementor-element elementor-element-ad0fcb3 elementor-widget elementor-widget-heading" data-id="ad0fcb3" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">

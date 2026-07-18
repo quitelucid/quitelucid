@@ -1,13 +1,11 @@
 ---
 ID: 1064
-post_title: Comment participer
 author: quitelucid
-post_excerpt: ""
+date: '2020-09-06 16:00:02'
 layout: page
-permalink: >
-  https://www.quitelucid.com/comment-participer/
+post_excerpt: ''
 published: true
-post_date: 2020-09-06 16:00:02
+title: Comment participer
 ---
 [et_pb_section fb_built="1" _builder_version="4.6.1" _module_preset="default"][et_pb_row _builder_version="4.6.1" _module_preset="default"][et_pb_column type="4_4" _builder_version="4.6.1" _module_preset="default"][et_pb_text _builder_version="4.6.1" _module_preset="default"]<h1><strong>Comment participer :</strong></h1>
 <p>&nbsp;</p>

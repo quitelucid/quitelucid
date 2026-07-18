@@ -1,12 +1,11 @@
 ---
 ID: 334
-post_title: Soutien
 author: quitelucid
-post_excerpt: ""
+date: '2019-08-04 06:37:01'
 layout: page
-permalink: https://www.quitelucid.com/soutien/
+post_excerpt: ''
 published: true
-post_date: 2019-08-04 06:37:01
+title: Soutien
 ---
 [et_pb_section fb_built="1" _builder_version="3.26.6"][et_pb_row _builder_version="3.26.6"][et_pb_column type="4_4" _builder_version="3.26.6"][et_pb_post_title meta="off" featured_image="off" _builder_version="3.26.6" text_orientation="center" text_shadow_style="preset2"][/et_pb_post_title][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.26.6" width="60%" module_alignment="center"][et_pb_column type="4_4" _builder_version="3.26.6"][et_pb_text _builder_version="3.26.6"]<p style="text-align: left;">Un grand Merci aux ululiens qui nous ont soutenus lors de notre campagne de crowdfunding :</p>
 <p style="text-align: left;">– (liste des noms/pseudonymes)</p>

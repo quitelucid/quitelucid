@@ -1,12 +1,11 @@
 ---
 ID: 382
-post_title: Concept
 author: quitelucid
-post_excerpt: ""
+date: '2019-08-06 03:57:06'
 layout: page
-permalink: https://www.quitelucid.com/concept/
+post_excerpt: ''
 published: true
-post_date: 2019-08-06 03:57:06
+title: Concept
 ---
 [et_pb_section fb_built="1" _builder_version="3.26.6"][et_pb_row _builder_version="3.26.6"][et_pb_column type="4_4" _builder_version="3.26.6"][et_pb_post_title meta="off" _builder_version="3.26.6" text_orientation="center"][/et_pb_post_title][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" _builder_version="3.27.1"][et_pb_column type="1_2" _builder_version="3.27.1"][et_pb_text _builder_version="3.27.4"]<h3></h3>
 <h3>Nos cartes</h3>

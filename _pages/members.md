@@ -1,11 +1,10 @@
 ---
 ID: 1044
-post_title: Membres
 author: quitelucid
-post_excerpt: ""
+date: '2020-09-03 22:52:52'
 layout: page
-permalink: https://www.quitelucid.com/members/
+post_excerpt: ''
 published: true
-post_date: 2020-09-03 22:52:52
+title: Membres
 ---
 [ultimatemember form_id="1040"]

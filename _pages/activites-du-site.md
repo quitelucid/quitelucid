@@ -1,11 +1,9 @@
 ---
 ID: 678
-post_title: Activités du site
 author: quitelucid
-post_excerpt: ""
+date: '2020-08-23 11:33:43'
 layout: page
-permalink: >
-  https://www.quitelucid.com/activites-du-site/
+post_excerpt: ''
 published: true
-post_date: 2020-08-23 11:33:43
+title: Activités du site
 ---

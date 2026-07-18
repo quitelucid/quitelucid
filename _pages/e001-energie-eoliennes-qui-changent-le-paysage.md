@@ -1,13 +1,11 @@
 ---
 ID: 609
-post_title: 'E001 – Energie : Éoliennes qui changent le paysage'
 author: quitelucid
-post_excerpt: ""
+date: '2020-08-22 16:05:12'
 layout: page
-permalink: >
-  https://www.quitelucid.com/e001-energie-eoliennes-qui-changent-le-paysage/
+post_excerpt: ''
 published: true
-post_date: 2020-08-22 16:05:12
+title: 'E001 – Energie : Éoliennes qui changent le paysage'
 ---
 [et_pb_section fb_built="1" _builder_version="3.29.3"][et_pb_row _builder_version="3.29.3"][et_pb_column type="4_4" _builder_version="3.29.3"][et_pb_post_title meta="off" _builder_version="4.0.7" text_orientation="center"][/et_pb_post_title][/et_pb_column][/et_pb_row][et_pb_row column_structure="2_5,3_5" _builder_version="3.29.3"][et_pb_column type="2_5" _builder_version="3.29.3"][et_pb_image src="https://www.quitelucid.com/wp-content/uploads/2019/08/QuiteLucid_Carte_Eoliennes.jpg" _builder_version="3.29.3"][/et_pb_image][/et_pb_column][et_pb_column type="3_5" _builder_version="3.29.3"][et_pb_text _builder_version="3.29.3"]<p>Artiste : Draolove</p>
 <p>Sponsor : Yvan D.</p>

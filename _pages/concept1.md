@@ -1,12 +1,11 @@
 ---
 ID: 181
-post_title: Accueil
 author: quitelucid
-post_excerpt: ""
+date: '2019-07-30 10:58:51'
 layout: page
-permalink: https://www.quitelucid.com/
+post_excerpt: ''
 published: true
-post_date: 2019-07-30 10:58:51
+title: Accueil
 ---
 [et_pb_section fb_built="1" admin_label="Hero" _builder_version="3.26.6" use_background_color_gradient="on" background_color_gradient_start="#6ED1BB" background_color_gradient_end="#6ED1BB" background_color_gradient_direction="60deg" custom_padding="0px|0px|0px|0px|false|false"][et_pb_row column_structure="1_2,1_2" _builder_version="3.26.5" custom_padding="|||"][et_pb_column type="1_2" _builder_version="3.25" custom_padding="||60px|" custom_padding__hover="|||"][et_pb_text _builder_version="4.6.0" text_font="Open Sans|600|||||||" text_font_size="16px" text_line_height="1.8em" header_font="Poppins||||||||" header_font_size="36px" header_line_height="1.4em" background_layout="dark" max_width="550px" hover_enabled="0" sticky_enabled="0" min_height="200px" custom_margin="119px|||||"]<p><span style="color: #055146; font-family: Poppins, serif; font-size: xx-large; font-weight: 500;">Un apprentissage ludique</span></p>
 <p><span style="color: #055146;"></span></p>

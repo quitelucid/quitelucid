@@ -1,11 +1,10 @@
 ---
 ID: 641
-post_title: Registration
 author: quitelucid
-post_excerpt: ""
+date: '2020-08-21 23:03:50'
 layout: page
-permalink: https://www.quitelucid.com/registration/
+post_excerpt: ''
 published: true
-post_date: 2020-08-21 23:03:50
+title: Registration
 ---
 [user_registration_form id="639"]

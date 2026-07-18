@@ -1,12 +1,11 @@
 ---
 ID: 447
-post_title: Communauté
 author: quitelucid
-post_excerpt: ""
+date: '2019-08-17 08:52:18'
 layout: page
-permalink: https://www.quitelucid.com/communaute/
+post_excerpt: ''
 published: true
-post_date: 2019-08-17 08:52:18
+title: Communauté
 ---
 [et_pb_section fb_built="1" _builder_version="3.26.6"][et_pb_row _builder_version="3.26.6"][et_pb_column type="4_4" _builder_version="3.26.6"][et_pb_post_title meta="off" _builder_version="3.26.6" text_orientation="center"][/et_pb_post_title][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.26.6" custom_padding="||0px|||"][et_pb_row _builder_version="3.26.6"][et_pb_column type="4_4" _builder_version="3.26.6"][et_pb_text _builder_version="4.6.1" custom_padding="||1px|||" hover_enabled="0" sticky_enabled="0"]<p>La QuiteLucid Community permet de rassembler différentes personnes à travers le monde partageant un objectif commun : être acteur du changement et impacter positivement la planète.</p>
 <p>Nous sommes au tout début de l’aventure. Nous travaillons sur le projet de manière bénévole et comptons sur le don et le soutien pour développer notre concept.</p>

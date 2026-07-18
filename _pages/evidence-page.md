@@ -1,12 +1,10 @@
 ---
 ID: 975
-post_title: Evidence Page
 author: quitelucid
-post_excerpt: ""
+date: '2020-08-30 19:17:24'
 layout: page
-permalink: >
-  https://www.quitelucid.com/evidence-page/
+post_excerpt: ''
 published: true
-post_date: 2020-08-30 19:17:24
+title: Evidence Page
 ---
 [badgeos_evidence]

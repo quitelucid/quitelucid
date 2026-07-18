@@ -1,12 +1,11 @@
 ---
 ID: 1
-post_title: Hello world!
 author: quitelucid
-post_excerpt: ""
+date: '2019-07-24 09:01:23'
 layout: post
-permalink: https://www.quitelucid.com/hello-world/
+post_excerpt: ''
 published: true
-post_date: 2019-07-24 09:01:23
+title: Hello world!
 ---
 <!-- wp:paragraph -->
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>

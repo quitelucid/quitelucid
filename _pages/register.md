@@ -1,11 +1,10 @@
 ---
 ID: 1043
-post_title: Inscription
 author: quitelucid
-post_excerpt: ""
+date: '2020-09-03 22:52:49'
 layout: page
-permalink: https://www.quitelucid.com/register/
+post_excerpt: ''
 published: true
-post_date: 2020-09-03 22:52:49
+title: Inscription
 ---
 [ultimatemember form_id="1037"]

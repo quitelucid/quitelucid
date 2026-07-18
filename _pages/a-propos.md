@@ -1,12 +1,11 @@
 ---
 ID: 268
-post_title: À propos
 author: quitelucid
-post_excerpt: ""
+date: '2019-08-01 10:47:22'
 layout: page
-permalink: https://www.quitelucid.com/a-propos/
+post_excerpt: ''
 published: true
-post_date: 2019-08-01 10:47:22
+title: À propos
 ---
 [et_pb_section fb_built="1" _builder_version="3.26.5" custom_padding="||0px|||"][et_pb_row _builder_version="3.26.5"][et_pb_column type="4_4" _builder_version="3.26.5"][et_pb_text _builder_version="3.27.4"]<h1>À propos</h1>
 <p>&nbsp;</p>

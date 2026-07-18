@@ -1,12 +1,11 @@
 ---
 ID: 1041
-post_title: Utilisateur·rice
 author: quitelucid
-post_excerpt: ""
+date: '2020-09-03 22:52:42'
 layout: page
-permalink: https://www.quitelucid.com/user/
+post_excerpt: ''
 published: true
-post_date: 2020-09-03 22:52:42
+title: Utilisateur·rice
 ---
 [et_pb_section admin_label="section"]
 			[et_pb_row admin_label="row"]

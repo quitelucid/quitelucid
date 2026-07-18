@@ -1,10 +1,9 @@
 ---
 ID: 1045
-post_title: Déconnexion
 author: quitelucid
-post_excerpt: ""
+date: '2020-09-03 22:52:57'
 layout: page
-permalink: https://www.quitelucid.com/logout/
+post_excerpt: ''
 published: true
-post_date: 2020-09-03 22:52:57
+title: Déconnexion
 ---

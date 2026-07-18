@@ -1,12 +1,11 @@
 ---
 ID: 517
-post_title: Cartes
 author: quitelucid
-post_excerpt: ""
+date: '2019-08-20 11:00:51'
 layout: page
-permalink: https://www.quitelucid.com/cartes/
+post_excerpt: ''
 published: true
-post_date: 2019-08-20 11:00:51
+title: Cartes
 ---
 [et_pb_section fb_built="1" _builder_version="3.27.1" custom_padding="||14px|||"][et_pb_row _builder_version="3.27.1"][et_pb_column type="4_4" _builder_version="3.27.1"][et_pb_post_title meta="off" _builder_version="3.27.1" text_orientation="center"][/et_pb_post_title][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.6.0" _module_preset="default"][et_pb_column type="4_4" _builder_version="4.6.0" _module_preset="default"][et_pb_text _builder_version="4.6.0" _module_preset="default"]<p>Chaque illustration du jeu de carte QuiteLucid fera l'objet d'une page dédiée afin d'apporter un support informatif et pédagogique. Les pages seront facilement éditable afin de permettre à notre communauté d'ajouter des informations et de proposer de nouveaux contenus </p>
 <p>Le jeu QuiteLucid - DIY sera disponible ici gratuitement et en libre service afin que chacun puisse prendre et s'approprier le jeu.<br /><a href="https://docs.google.com/document/d/1TfDtMwrY2B76SWiiqzfM-vpXesC-nIxHFHs-TNqH3x0/edit?usp=sharing">Télécharger ici le jeu QuiteLucid - DIY à imprimer</a></p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.27.1" custom_margin="-20px|||||" custom_padding="28px|||||"][et_pb_row column_structure="1_3,1_3,1_3" _builder_version="4.6.0" _module_preset="default"][et_pb_column type="1_3" _builder_version="4.6.0" _module_preset="default"][et_pb_blog include_categories="33" _builder_version="4.6.0" _module_preset="default"][/et_pb_blog][/et_pb_column][et_pb_column type="1_3" _builder_version="4.6.0" _module_preset="default"][et_pb_blog include_categories="31" _builder_version="4.6.0" _module_preset="default"][/et_pb_blog][/et_pb_column][et_pb_column type="1_3" _builder_version="4.6.0" _module_preset="default"][et_pb_blog include_categories="31" _builder_version="4.6.0" _module_preset="default"][/et_pb_blog][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.26.6" background_color="#3b5998" max_height="150px" max_height_tablet="" max_height_phone="" max_height_last_edited="on|desktop" custom_padding="0px||0px||false|false" global_module="355" saved_tabs="all"][et_pb_row column_structure="3_4,1_4" _builder_version="3.26.6"][et_pb_column type="3_4" _builder_version="3.26.6"][et_pb_text _builder_version="3.27.4" custom_padding="||0px|||"]<h1><span style="color: #ffffff;">Participer</span></h1>
