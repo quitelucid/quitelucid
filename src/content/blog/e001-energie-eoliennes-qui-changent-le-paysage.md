@@ -63,7 +63,7 @@ title: 'E001 – Energie : Éoliennes qui changent le paysage'
 </ul>
 <p>La filière de l’éolien a de beaux jours devant elle. Son développement est souhaitable, mais  l’intermittence impose le recours à d’autres moyens de production comme le nucléaire (mix électrique). La construction des éoliennes nécessite l’exploitation de l’énergie fossile (mines, fonderies, transports), mais cela constitue une utilisation pertinente, car destinée au renouvelable.</p><h3>Citations :</h3>
 <p>«<i>Au départ, l’énergie éolienne est une très bonne idée mais à l’arrivée, c’est une réalisation tragique. Si on nous disait au moins que cela permettrait de fermer des centrales. Mais ce n’est pas le cas. Cela peut dénaturer des paysages pour des résultats finalement incertains... En bref c’est simplement de l’habillage</i>» Nicolas Hulot (2005)</p><h3>Fiche didactique détaillée</h3>
-<p>Si vous souhaitez creuser le sujet :</p>
+<p>Si tu souhaites creuser le sujet :</p>
 <p>Nous conseillons de regarder la video de la chaine Le Réveilleur sur l'éolien. En 30minutes,  Rodolphe aborde le sujet de manière complete avec notamment une présentation détaillée sur les eoliennes terrestres et offshore, l'impact sur les oiseaux et sur la santé humaines, l'utilisation des composants et terres rares et bien plus encore.</p>
 <p>Un sujet complexe et nuancé passionnant !</p>
 <p>https://youtu.be/wXqIZxV6VHE</p><h3>« Jeux mobile » Devine ! (Time's up)</h3>

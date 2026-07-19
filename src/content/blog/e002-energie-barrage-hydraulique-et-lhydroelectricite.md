@@ -10,7 +10,7 @@ title: 'E002 – Energie : Barrage hydraulique et l’hydroélectricité'
 <p>Sujet :  Les barrages hydrauliques et la production hydroélectrique</p>
 <h3>Résumé de la fiche didactique</h3>
 <p>à compléter...</p><h3>Fiche didactique détaillée</h3>
-<p>Si vous souhaitez creuser le sujet :</p>
+<p>Si tu souhaites creuser le sujet :</p>
 <p>Nous conseillons de regarder la video de la chaine Le Réveilleur sur l'éolien. En 30minutes,  Rodolphe aborde le sujet de manière complete avec notamment une présentation détaillée sur les eoliennes terrestres et offshore, l'impact sur les oiseaux et sur la santé humaines, l'utilisation des composants et terres rares et bien plus encore.</p>
 <p>Un sujet complexe et nuancé passionnant !</p>
 <p>https://youtu.be/wXqIZxV6VHE</p><h3>Citations :</h3>

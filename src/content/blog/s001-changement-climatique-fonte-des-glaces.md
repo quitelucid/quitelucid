@@ -13,7 +13,7 @@ heroImage: ../../assets/cards/s001-fonte-glaces.png
 
 <h3>La banquise, c'est quoi ?</h3>
 
-<p>C'est de la glace, c'est certain ! Mais sauriez-vous faire la différence entre les glaciers, les icebergs et la banquise ?</p>
+<p>C'est de la glace, c'est certain ! Mais saurais-tu faire la différence entre les glaciers, les icebergs et la banquise ?</p>
 
 <ul>
 <li><strong>Les glaciers sont constitués d'eau douce.</strong> Ils se forment sur le continent, au niveau des pôles ou des montagnes, par compactage de la neige accumulée. Les icebergs, détachés des glaciers, se déversent dans la mer. Si la glace des continents fond et se déverse en abondance dans les océans, le niveau de la mer augmente.</li>
@@ -35,7 +35,7 @@ heroImage: ../../assets/cards/s001-fonte-glaces.png
 <li>elle régule le climat mondial ;</li>
 <li>elle alimente la circulation océanique ;</li>
 <li>elle représente un habitat immense — 50 fois la France ! — pour des formes de vie allant des microbes aux mammifères ;</li>
-<li>elle renseigne sur les changements climatiques. Imaginez une chips à la surface d'une piscine : c'est ce que représente la banquise par rapport à la profondeur de l'océan. Elle réagit donc très fortement aux variations climatiques.</li>
+<li>elle renseigne sur les changements climatiques. Imagine une chips à la surface d'une piscine : c'est ce que représente la banquise par rapport à la profondeur de l'océan. Elle réagit donc très fortement aux variations climatiques.</li>
 </ul>
 
 <h3>Pourquoi la glace fond-elle ?</h3>
@@ -65,4 +65,4 @@ heroImage: ../../assets/cards/s001-fonte-glaces.png
 <li>soutenir les mouvements citoyens verts, les initiatives locales et la reforestation.</li>
 </ul>
 
-<p>L'humanité observe la disparition d'un des habitats les plus importants de la planète, à la faune et à l'écosystème uniques. Sommes-nous vraiment impuissants ? Maintenant que vous êtes « quite lucid », vous avez les clés pour agir.</p>
+<p>L'humanité observe la disparition d'un des habitats les plus importants de la planète, à la faune et à l'écosystème uniques. Sommes-nous vraiment impuissants ? Maintenant que tu es « quite lucid », tu as les clés pour agir.</p>

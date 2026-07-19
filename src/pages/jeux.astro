@@ -1,0 +1,184 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const games = [
+	{
+		icon: '⏱️',
+		title: 'Devine !',
+		based: "d'après Time's Up!",
+		players: '4+ joueurs · 2 équipes',
+		pitch:
+			'Fais deviner le sujet de la carte à ton équipe avant la fin du temps imparti. Trois manches, de plus en plus corsées.',
+		steps: [
+			'Constitue une pioche avec les cartes QuiteLucid.',
+			'Manche 1 : fais deviner en parlant, autant de mots que tu veux (sauf le sujet lui-même).',
+			'Manche 2 : un seul mot autorisé pour chaque carte.',
+			'Manche 3 : uniquement en mime. On rejoue les mêmes cartes à chaque manche !',
+		],
+	},
+	{
+		icon: '✏️',
+		title: 'Identik',
+		based: "d'après Duplik",
+		players: '3+ joueurs',
+		pitch:
+			"Un joueur décrit l'illustration d'une carte, les autres la redessinent à l'aveugle. Points marqués selon les détails bien restitués.",
+		steps: [
+			"Le meneur pioche une carte sans la montrer et la décrit à voix haute.",
+			'Les autres dessinent le plus fidèlement possible en un temps limité.',
+			"Le meneur lit une liste de critères (« il y a au moins 3 éoliennes », « un nuage dans le ciel »…).",
+			'Chaque critère respecté rapporte des points aux dessinateurs et au meneur.',
+		],
+	},
+	{
+		icon: '🗣️',
+		title: 'Histoires d\'images',
+		based: 'd\'après Dixit',
+		players: '3+ joueurs',
+		pitch:
+			'Les illustrations artistiques des cartes se prêtent parfaitement au jeu du conteur : un indice, et on devine la bonne carte parmi plusieurs.',
+		steps: [
+			'Le conteur choisit une carte en main et donne un indice (un mot, une phrase, un son).',
+			'Chaque autre joueur propose une de ses cartes qui colle à l\'indice.',
+			'On mélange les cartes, puis chacun vote pour celle du conteur.',
+			'Marque des points si certains — mais pas tous — retrouvent la carte du conteur.',
+		],
+	},
+	{
+		icon: '💬',
+		title: 'Le débat lucide',
+		based: 'jeu maison',
+		players: '2+ joueurs',
+		pitch:
+			'Un mode discussion : on pioche une carte, on lit son article et sa citation, puis on échange son point de vue. Idéal en classe ou en famille.',
+		steps: [
+			'Pioche une carte et lis son article sur le site.',
+			'Chacun donne son avis : d\'accord, pas d\'accord, pourquoi ?',
+			'Cherche une action concrète liée au sujet à tester cette semaine.',
+		],
+	},
+];
+---
+
+<!doctype html>
+<html lang="fr">
+	<head>
+		<BaseHead
+			title={`Jeux — ${SITE_TITLE}`}
+			description="Des jeux à faire avec les cartes QuiteLucid, inspirés de Time's Up!, Duplik, Dixit et plus encore."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Comment jouer ? 🎲</h1>
+			<p class="intro">
+				Les cartes QuiteLucid ne servent pas qu'à lire : elles se glissent dans plein de jeux que
+				tu connais déjà. Voici quelques façons de t'amuser tout en ouvrant les yeux sur le monde.
+			</p>
+
+			<div class="games">
+				{
+					games.map((g) => (
+						<article class="game">
+							<header class="game-head">
+								<span class="game-icon">{g.icon}</span>
+								<div>
+									<h2 class="game-title">{g.title}</h2>
+									<span class="badge">{g.based}</span>
+								</div>
+							</header>
+							<p class="game-players">👥 {g.players}</p>
+							<p class="game-pitch">{g.pitch}</p>
+							<ol class="game-steps">
+								{g.steps.map((s) => (
+									<li>{s}</li>
+								))}
+							</ol>
+						</article>
+					))
+				}
+			</div>
+
+			<p class="foot-note">
+				Une idée de jeu à ajouter ? Le projet est participatif — retrouve-nous sur
+				<a href={base + '/about'}>la page du projet</a>.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.intro {
+		color: var(--ink-soft);
+		max-width: 62ch;
+		margin-bottom: 2rem;
+	}
+	.games {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+		gap: 1.4rem;
+	}
+	.game {
+		background: #fff;
+		border: var(--border-card);
+		border-radius: var(--radius-card);
+		padding: 1.2rem 1.3rem 1.4rem;
+		box-shadow: var(--shadow-card);
+	}
+	.game-head {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		margin-bottom: 0.5rem;
+	}
+	.game-icon {
+		display: grid;
+		place-items: center;
+		flex: 0 0 auto;
+		width: 2.6rem;
+		height: 2.6rem;
+		background: var(--green-pale);
+		border: 2.5px solid var(--ink);
+		border-radius: 10px;
+		font-size: 1.35rem;
+		transform: rotate(-5deg);
+	}
+	.game-title {
+		margin: 0;
+		font-size: 1.2rem;
+	}
+	.game-players {
+		margin: 0 0 0.6rem;
+		font-size: 0.85rem;
+		color: var(--ink-soft);
+	}
+	.game-pitch {
+		margin: 0 0 0.8rem;
+	}
+	.game-steps {
+		margin: 0;
+		padding-left: 1.2rem;
+	}
+	.game-steps li {
+		margin-bottom: 0.35rem;
+	}
+	.game-steps li::marker {
+		color: var(--green-bright);
+		font-weight: 700;
+	}
+	.foot-note {
+		margin-top: 2.5rem;
+		padding: 1rem 1.2rem;
+		background: var(--sun-pale);
+		border: 2px solid var(--ink);
+		border-radius: var(--radius);
+		text-align: center;
+	}
+</style>
