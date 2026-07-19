@@ -25,9 +25,9 @@ const fan = [cardE001, cardA001, cardA003, cardA002, cardE002];
 		<main>
 			<section class="hero">
 				<div class="hero-text">
-					<h1>Devenez <em>plutôt lucide</em> sur le monde 🌱</h1>
+					<h1>Le jeu de cartes qui <em>ouvre les yeux</em> sur le monde 🌱</h1>
 					<p>
-						Quite Lucid est un jeu de cartes éducatif et positif : chaque carte est une
+						Apprendre, se cultiver et se forger sa propre opinion : chaque carte est une
 						illustration artistique autour de l'écologie — énergie, actions du quotidien,
 						société — accompagnée d'une citation inspirante et d'un article pour comprendre.
 					</p>
@@ -77,9 +77,12 @@ const fan = [cardE001, cardA001, cardA003, cardA002, cardE002];
 	}
 	.hero h1 em {
 		font-style: normal;
-		color: var(--green);
-		text-decoration: underline wavy var(--sun) 3px;
-		text-underline-offset: 6px;
+		color: var(--ink);
+		background: linear-gradient(120deg, var(--sun) 0%, #f7c554 100%);
+		box-decoration-break: clone;
+		-webkit-box-decoration-break: clone;
+		padding: 0.05em 0.2em;
+		border-radius: 0.3em 0.5em 0.35em 0.55em;
 	}
 	.hero-text p {
 		color: var(--ink-soft);
