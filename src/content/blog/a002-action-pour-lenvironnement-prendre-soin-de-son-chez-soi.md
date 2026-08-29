@@ -22,7 +22,7 @@ title: 'A002 – Action pour l’environnement : Prendre soin de son chez
 <li>Un jardin</li>
 <li>Une déchetterie</li>
 <li>Un quartier</li>
-</ul><h3>« Jeux mobile » Identik (Duplik)</h3>
+</ul><h3>« Jeux mobile » Dessine ! (inspiré de Duplik)</h3>
 <ol>
 <li>Il y a deux personnes sur l'image</li>
 <li>Il y a un des buissons sur la partie droite de l'image</li>

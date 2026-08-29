@@ -21,7 +21,7 @@ title: 'A001 – Action pour l’environnement : Protéger l’océan et ses ani
 <li>Plongée sous-marine</li>
 <li>Corail</li>
 <li>Filet</li>
-</ul><h3>« Jeux mobile » Identik (Duplik)</h3>
+</ul><h3>« Jeux mobile » Dessine ! (inspiré de Duplik)</h3>
 <ol>
 <li>Le plongeur a un masque et des palmes</li>
 <li>La tête de la tortue va vers la droite</li>

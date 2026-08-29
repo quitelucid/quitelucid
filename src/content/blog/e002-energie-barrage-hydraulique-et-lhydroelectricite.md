@@ -20,7 +20,7 @@ title: 'E002 – Energie : Barrage hydraulique et l’hydroélectricité'
 <li>Un ruisseau</li>
 <li>Un coucher de soleil</li>
 <li>un castor</li>
-</ul><h3>« Jeux mobile » Identik (Duplik)</h3>
+</ul><h3>« Jeux mobile » Dessine ! (inspiré de Duplik)</h3>
 <ol>
 <li>Il y a un arbre à droite de l'image</li>
 <li>Il y a deux castors </li>

@@ -18,7 +18,7 @@ title: 'A003 – Action pour l’environnement : #fillthebottlechallenge'
 <li>Ramasser des déchets</li>
 <li>Une bonne action</li>
 <li>Jeter une poubelle</li>
-</ul><h3>« Jeux mobile » Identik (Duplik)</h3>
+</ul><h3>« Jeux mobile » Dessine ! (inspiré de Duplik)</h3>
 <ol>
 <li>Il y a au moins deux personnes sur l'image</li>
 <li>Il y a une bouteille sur l'image</li>

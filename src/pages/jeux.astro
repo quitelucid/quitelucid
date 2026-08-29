@@ -10,7 +10,7 @@ const games = [
 	{
 		icon: '⏱️',
 		title: 'Devine !',
-		based: "d'après Time's Up!",
+		based: "inspiré de Time's Up!",
 		players: '4+ joueurs · 2 équipes',
 		pitch:
 			'Fais deviner le sujet de la carte à ton équipe avant la fin du temps imparti. Trois manches, de plus en plus corsées.',
@@ -23,8 +23,8 @@ const games = [
 	},
 	{
 		icon: '✏️',
-		title: 'Identik',
-		based: "d'après Duplik",
+		title: 'Dessine !',
+		based: "inspiré de Duplik",
 		players: '3+ joueurs',
 		pitch:
 			"Un joueur décrit l'illustration d'une carte, les autres la redessinent à l'aveugle. Points marqués selon les détails bien restitués.",
@@ -38,7 +38,7 @@ const games = [
 	{
 		icon: '🗣️',
 		title: 'Histoires d\'images',
-		based: 'd\'après Dixit',
+		based: 'inspiré de Dixit',
 		players: '3+ joueurs',
 		pitch:
 			'Les illustrations artistiques des cartes se prêtent parfaitement au jeu du conteur : un indice, et on devine la bonne carte parmi plusieurs.',
@@ -79,7 +79,7 @@ const games = [
 			<h1>Comment jouer ? 🎲</h1>
 			<p class="intro">
 				Les cartes QuiteLucid ne servent pas qu'à lire : elles se glissent dans plein de jeux que
-				tu connais déjà. Voici quelques façons de t'amuser tout en ouvrant les yeux sur le monde.
+				tu connais déjà.<br />Voici quelques façons de t'amuser tout en ouvrant les yeux sur le monde.
 			</p>
 
 			<div class="games">
@@ -106,8 +106,11 @@ const games = [
 			</div>
 
 			<p class="foot-note">
-				Une idée de jeu à ajouter ? Le projet est participatif — retrouve-nous sur
+				Une idée de jeu à ajouter ? Le projet est participatif — retrouve-nous sur{' '}
 				<a href={base + '/about'}>la page du projet</a>.
+			</p>
+			<p class="trademarks">
+				Time's Up!, Duplik et Dixit sont des marques déposées de leurs titulaires respectifs, sans lien avec QuiteLucid.
 			</p>
 		</main>
 		<Footer />
@@ -117,7 +120,7 @@ const games = [
 <style>
 	.intro {
 		color: var(--ink-soft);
-		max-width: 62ch;
+		max-width: none;
 		margin-bottom: 2rem;
 	}
 	.games {
@@ -172,6 +175,12 @@ const games = [
 	.game-steps li::marker {
 		color: var(--green-bright);
 		font-weight: 700;
+	}
+	.trademarks {
+		color: var(--ink-soft);
+		font-size: 0.8rem;
+		text-align: center;
+		margin-top: 1rem;
 	}
 	.foot-note {
 		margin-top: 2.5rem;

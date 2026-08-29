@@ -72,7 +72,7 @@ title: 'E001 – Energie : Éoliennes qui changent le paysage'
 <li>Une montgolfière</li>
 <li>Un coucher de soleil</li>
 <li>Peindre un paysage</li>
-</ul><h3>« Jeux mobile » Identik (Duplik)</h3>
+</ul><h3>« Jeux mobile » Dessine ! (inspiré de Duplik)</h3>
 <ol>
 <li>Il y a un chat sur l'image</li>
 <li>Il y a un chevalet sur l'image</li>
